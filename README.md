@@ -104,3 +104,6 @@ If the page opens and charts load, the frontend is running correctly.
 
 
 ![alt text](image-1.png)
+
+## Author
+**Ashish Kumar Karmaker, Research Engineer, James Cook University**
